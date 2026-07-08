@@ -8,6 +8,8 @@ sets each specialize in one band of map sizes.
 
 **Final submission:** [`submission/107691.cpp`](submission/107691.cpp)
 
+**How it works:** see [`docs/STRATEGY.md`](docs/STRATEGY.md) for the full strategy + genetic-algorithm writeup.
+
 ---
 
 ## The game (brief)
