@@ -149,4 +149,4 @@ python3 testing-tool.py --seed 1 --NP 40 --KP 6 -l game.log \
   back-to-back waves) on mid-size maps, where reinforcement can't out-pace the
   wave cadence. It's the honest open problem of this bot.
 ## Result
-Congratulations! We have advanced to the final round. Rank: (?)
+Congratulations! We have advanced to the final round. Rank: 13/1604(Qualification Round)
