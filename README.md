@@ -148,5 +148,11 @@ python3 testing-tool.py --seed 1 --NP 40 --KP 6 -l game.log \
 - **One cell stayed hard to the end:** defending a *rolling* rush (continuous
   back-to-back waves) on mid-size maps, where reinforcement can't out-pace the
   wave cadence. It's the honest open problem of this bot.
-## Result
-Congratulations! We have advanced to the final round. Rank: 13/1604(Qualification Round)
+
+## Qualification Round
+
+![Master Track Qualification Round — NEXT NATION result](result.png)
+
+- **Overall rank:** 13th
+- **Total participating teams:** 867
+- **Outcome:** Advanced to the final round
